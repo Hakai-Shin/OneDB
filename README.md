@@ -1,4 +1,4 @@
-# SimpleRA
+# OneDB
 
 ## Compilation Instructions
 
