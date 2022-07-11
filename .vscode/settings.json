@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+<<<<<<< HEAD
+        "bitset": "cpp",
+        "string": "cpp",
+        "vector": "cpp"
+=======
+        "ostream": "cpp"
+>>>>>>> fa0534075dd330390436ca52dbc93dd6a39a8e02
+    }
+}
